@@ -1,4 +1,4 @@
-[![build status](https://github.com/mrswats/flake8-nested-fstrings/actions/workflows/main.yml/badge.svg)](https://github.com/asottile/flake8-match/actions/workflows/main.yml)
+[![build status](https://github.com/mrswats/flake8-nested-fstrings/actions/workflows/main.yml/badge.svg)](https://github.com/mrswats/flake8-nested-fstrings/actions/workflows/main.yml)
 
 # flake8-nested-fstrings
 
