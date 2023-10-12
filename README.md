@@ -12,6 +12,15 @@ flake8 plugin which forbids nesting f-strings inside other f-strings.
 pip install flake8-nested-fstrings
 ```
 
+## Rationale
+
+Quoting the zen of python:
+
+```
+Flat is better than nested.
+
+```
+
 ## Codes
 
 | Code   | Description            |
