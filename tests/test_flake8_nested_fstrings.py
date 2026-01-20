@@ -29,5 +29,5 @@ def test_negative_cases(src):
     ],
 )
 def test_nested_fstrings(src):
-    (msg, *_) = results(src)
+    msg, *_ = results(src)
     assert msg == "1:0: NFS001 do not nest f-strings."
